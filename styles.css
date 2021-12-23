@@ -1,0 +1,79 @@
+#header {
+  background-image: url(assets/Path\ 1.svg);
+  background-repeat: no-repeat;
+  background-position-x: right;
+  background-size: 50%;
+}
+
+#home {
+  padding-top: 5rem;
+}
+
+.search {
+  display: inline-flex;
+}
+
+#product {
+  padding-top: 5rem;
+  background-image: url(assets/Path\ 2.svg);
+  background-repeat: no-repeat;
+  background-position-y: 30rem;
+  background-size: 100%;
+}
+
+/* .carousel-item {
+  background-image: url(assets/bg_testimoni.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 1rem;
+} */
+
+#testimoni {
+  padding: 1rem;
+  background-image: url(assets/bg_testimoni.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: -5rem;
+}
+
+#contact {
+  padding-top: 15rem;
+}
+
+.jumbotron {
+  padding-top: 5rem;
+}
+
+.form-control {
+  width: 80%;
+}
+
+#pesan {
+  width: 80%;
+  height: 300px;
+}
+
+#sosmed ul li {
+  display: inline;
+  margin-inline: 2rem;
+  margin-inline-start: 0rem;
+}
+
+.card-img {
+  width: 50%;
+  padding: 1rem;
+}
+
+.card {
+  text-align: center;
+  width: 10rem;
+  margin: 1rem;
+}
+
+.carousel-control-next {
+  top: 10px;
+  background: red;
+  padding: 20px;
+  width: 50px;
+  height: 20px;
+}
